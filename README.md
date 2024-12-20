@@ -19,23 +19,23 @@ The Multithreaded File Downloader is a tool that enhances file download efficien
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pranavd24/multithreaded-file-downloader.git
+   git clone https://github.com/pranavd24/Multithreaded-File-Downloader.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd multithreaded-file-downloader
+   cd Multithreaded-File-Downloader
    ```
 
 ## Usage
 1. Run the script:
    ```bash
-   python downloader.py <file_url>
+   python main.py <file_url>
    ```
 2. Replace `<file_url>` with the URL of the file you want to download.
 
 ## Example
 ```bash
-python downloader.py https://example.com/largefile.zip
+python main.py https://example.com/largefile.zip
 ```
 
 ## License
@@ -45,4 +45,4 @@ This project is licensed under th[MIT Licee nse](LICENSE), allowing free use, mo
 Contributions are welcome! Please submit a pull request or open an issue for feedback or improvements.
 
 ## Contact
-For questions or suggestions, feel free to contact [your email or GitHub profile link].
+For questions or suggestions, feel free to contact digraskarpranav@gmail.com.
